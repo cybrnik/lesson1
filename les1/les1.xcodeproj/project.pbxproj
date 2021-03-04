@@ -7,7 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		11E5491525F0B42B000F6607 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E5491425F0B42B000F6607 /* main.swift */; };
+		11E5492125F0B55C000F6607 /* HW1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E5492025F0B55C000F6607 /* HW1.swift */; };
+		11E5492425F0B569000F6607 /* HW2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E5492325F0B569000F6607 /* HW2.swift */; };
+		11E5492725F0B574000F6607 /* HW3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E5492625F0B574000F6607 /* HW3.swift */; };
+		11E5492B25F0B68E000F6607 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E5492A25F0B68E000F6607 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +27,10 @@
 
 /* Begin PBXFileReference section */
 		11E5491125F0B42B000F6607 /* les1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = les1; sourceTree = BUILT_PRODUCTS_DIR; };
-		11E5491425F0B42B000F6607 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		11E5492025F0B55C000F6607 /* HW1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW1.swift; sourceTree = "<group>"; };
+		11E5492325F0B569000F6607 /* HW2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW2.swift; sourceTree = "<group>"; };
+		11E5492625F0B574000F6607 /* HW3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW3.swift; sourceTree = "<group>"; };
+		11E5492A25F0B68E000F6607 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +63,10 @@
 		11E5491325F0B42B000F6607 /* les1 */ = {
 			isa = PBXGroup;
 			children = (
-				11E5491425F0B42B000F6607 /* main.swift */,
+				11E5492025F0B55C000F6607 /* HW1.swift */,
+				11E5492325F0B569000F6607 /* HW2.swift */,
+				11E5492625F0B574000F6607 /* HW3.swift */,
+				11E5492A25F0B68E000F6607 /* main.swift */,
 			);
 			path = les1;
 			sourceTree = "<group>";
@@ -119,7 +128,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11E5491525F0B42B000F6607 /* main.swift in Sources */,
+				11E5492425F0B569000F6607 /* HW2.swift in Sources */,
+				11E5492125F0B55C000F6607 /* HW1.swift in Sources */,
+				11E5492B25F0B68E000F6607 /* main.swift in Sources */,
+				11E5492725F0B574000F6607 /* HW3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
